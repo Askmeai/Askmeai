@@ -27,7 +27,7 @@ AskmeAI functions as a scanning tool and never provides investment advice. It sw
 AskmeAI has successfully addressed the prevalent issue of alternative liquidity sources that many projects struggle with. Its innovative approach is likely to be widely adopted in the future. However, it may also attract unwarranted attention from malicious projects and communities due to its accuracy. This platform is poised to bring about irreversible changes in the world of promising tokens, particularly by highlighting their shortcomings for a cleaner crypto environment.
 
 
-<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/banner1.png" alt="alt text" width="1024" height="576">
+<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/aws.png" alt="alt text" width="1024" height="576">
 
 ## What is AskmeAI?
 
