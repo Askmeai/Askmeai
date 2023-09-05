@@ -34,7 +34,7 @@ Having a project with KYC doesn't necessarily guarantee its safety. Likewise, in
 To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 ## Links
-💎[Website]([http://askmeaiproject.com)
+💎[Website](http://askmeaiproject.com)
 
 💎[Project List](http://google.fr)
 
