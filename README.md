@@ -26,7 +26,7 @@ AskmeAI conducts a comprehensive examination of projects across various dimensio
 AskmeAI functions as a scanning tool and never provides investment advice. It swiftly scans new projects and pre-sales, thereby preventing users from wasting time. Relying solely on audit reviews or KYC ownership is insufficient; a comprehensive review that encompasses all details is necessary. The AskmeAI score will hold significant importance for projects that are newly entering the blockchain realm.
 AskmeAI has successfully addressed the prevalent issue of alternative liquidity sources that many projects struggle with. Its innovative approach is likely to be widely adopted in the future. However, it may also attract unwarranted attention from malicious projects and communities due to its accuracy. This platform is poised to bring about irreversible changes in the world of promising tokens, particularly by highlighting their shortcomings for a cleaner crypto environment.
 
-## WhatisAskmeAI?
+## What is AskmeAI?
 
 AskMeAI is a revolutionary blockchain-powered platform that harnesses the capabilities of artificial intelligence (AI) to offer detailed and precise insights into the realm of cryptocurrency.
 AskmeAI is an artificial intelligence-supported scoring platform, a listing platform where projects scanned using artificial intelligence are showcased, a 90-day staking platform for early-stage users, and a comprehensive structure guided by the 'clean crypto' motto, which conducts thorough and holistic evaluations of projects considering every factor.
