@@ -12,8 +12,8 @@ AskmeAI is a project that aims to thoroughly scan and score new or pre-sale proj
 - [Introduction](#introduction)
 - [What is AskmeAI?](#what-is-askmeai)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Links](#links)
+- [Socials](#socials)
 - [License](#license)
 
 ## Introduction
@@ -36,7 +36,7 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 ## Links
 💎[Website](http://askmeaiproject.com)
 
-💎[Project List](http://google.fr)
+💎[Project List](http://amailist.com)
 
 💎[Stake ](http://google.fr)
 
@@ -53,6 +53,8 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 💎[Linktree ](http://google.fr)
 
 ## Licence
+
+Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License.
 
 Thanks for visiting
 We hope you enjoy using AskmeAI anywhere it's avaliable, whether that's web, telegram or Twitter! If you have any questions or feedback, feel free to open an issue or submit a request.
