@@ -1,7 +1,6 @@
-# Ask Me
-
-Welcome to Ask Me! This is a [brief description of your project].
-![alt text][(http://url/to/img.png](https://github.com/Askmeai/VisualWarehouse/blob/main/askmebanner.png))
+# Ask Me Project
+AskmeAI is a comprehensive project scanning platform powered by artificial intelligence, and it is fully community-oriented.
+AskmeAI is a project that aims to thoroughly scan and score new or pre-sale projects using the power of Artificial Intelligence.
 <img src="https://github.com/Askmeai/VisualWarehouse/blob/main/banner1.png" alt="alt text" width="1440" height="240">
 ## Table of Contents
 
