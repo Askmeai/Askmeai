@@ -42,19 +42,22 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 ## Socials
 
-💎[Twitter](http://google.fr)
+💎[Twitter](https://x.com/AiAskme)
 
-💎[Telegram](http://google.fr)
+💎[Telegram](https://t.me/askmeportal)
 
 💎[Reddit ](http://google.fr)
 
 💎[Medium ](http://google.fr)
 
-💎[Linktree ](http://google.fr)
+💎[Linktree ](https://linktr.ee/Askmeai)
 
 ## Licence
 
 Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License.
+
+
+
 
 Thanks for visiting
 We hope you enjoy using AskmeAI anywhere it's avaliable, whether that's web, telegram or Twitter! If you have any questions or feedback, feel free to open an issue or submit a request.
