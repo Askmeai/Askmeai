@@ -33,18 +33,17 @@ AskmeAI is an artificial intelligence-supported scoring platform, a listing plat
 Having a project with KYC doesn't necessarily guarantee its safety. Likewise, investing in a non-KYC project isn't just a gamble; it's essentially handing money directly to scammers. You might as well stand by the street-facing part of your house and throw your money onto the street—this would at least bring a moment of happiness to whoever finds it. This scenario seems more logical than investing in a project without KYC.
 To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
-## Getting Started
-[try](http://google.fr)
+## Lınks
+💎[Website](http://google.fr)
+💎[Project List](http://google.fr)
+💎[Stake ](http://google.fr)
+## Socials
+💎[Twitter](http://google.fr)
+💎[Telegram](http://google.fr)
+💎[Reddit ](http://google.fr)
+💎[Medium ](http://google.fr)
+💎[Linktree ](http://google.fr)
+## Licence
 
-### Prerequisites
-
-List any prerequisites or system requirements that users should be aware of before getting started. For example:
-
-- Node.js (version X.X.X)
-- npm (version X.X.X)
-
-### Installation
-
-Provide step-by-step installation instructions. You can use code blocks to show commands users need to run. For example:
-
-# Licence
+Thanks for visiting
+We hope you enjoy using AskmeAI anywhere it's avaliable, whether that's web, telegram or Twitter! If you have any questions or feedback, feel free to open an issue or submit a request.
