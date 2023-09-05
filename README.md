@@ -10,7 +10,7 @@ AskmeAI is a project that aims to thoroughly scan and score new or pre-sale proj
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
+- [What is AskmeAI?](#What-is-AskmeAI?)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
