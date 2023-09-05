@@ -2,7 +2,7 @@
 
 Welcome to Ask Me! This is a [brief description of your project].
 
-[Include a project logo or banner here if applicable]
+https://github.com/Askmeai/VisualWarehouse/blob/main/askmebannergithub.png
 
 ## Table of Contents
 
