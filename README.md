@@ -35,14 +35,23 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 ## Lınks
 💎[Website](http://google.fr)
+
 💎[Project List](http://google.fr)
+
 💎[Stake ](http://google.fr)
+
 ## Socials
+
 💎[Twitter](http://google.fr)
+
 💎[Telegram](http://google.fr)
+
 💎[Reddit ](http://google.fr)
+
 💎[Medium ](http://google.fr)
+
 💎[Linktree ](http://google.fr)
+
 ## Licence
 
 Thanks for visiting
