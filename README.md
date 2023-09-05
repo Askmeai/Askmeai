@@ -2,7 +2,7 @@
 
 Welcome to Ask Me! This is a [brief description of your project].
 ![alt text][(http://url/to/img.png](https://github.com/Askmeai/VisualWarehouse/blob/main/askmebanner.png))
-<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/askmebanner.png" alt="alt text" width="1440" height="180">
+<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/banner1.png" alt="alt text" width="1440" height="240">
 ## Table of Contents
 
 - [Introduction](#introduction)
