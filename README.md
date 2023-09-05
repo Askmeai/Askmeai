@@ -46,36 +46,4 @@ List any prerequisites or system requirements that users should be aware of befo
 
 Provide step-by-step installation instructions. You can use code blocks to show commands users need to run. For example:
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ask-me.git
-
-# Navigate to the project directory
-cd ask-me
-
-# Install dependencies
-npm install
-
-Usage
-Explain how to use your project. Provide code examples or usage scenarios to help users understand how to interact with your application or library.
-
-bash
-Copy code
-# Example command or code snippet
-Contributing
-Explain how others can contribute to your project. This may include information on how to report bugs, suggest new features, or submit pull requests. Be sure to include guidelines for coding style and pull request reviews if applicable.
-
-# License
-Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License. Full Details.
-
-Acknowledgments
-If your project uses third-party libraries, frameworks, or services, you can acknowledge them here and provide links to their documentation or websites.
-
-Thank you for using Ask Me! We welcome your feedback and contributions. If you have any questions or need assistance, please feel free to contact us.
-
-[Optional: Include badges for build status, version, or other relevant information]
-
-javascript
-Copy code
-
-Replace the placeholders such as `[License Name]`, `yourusername`, and `your.email@example.com` with your project's specific information. Additionally, customize the sections, formatting, and content as needed to best represent your project.
+# Licence
