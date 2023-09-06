@@ -41,6 +41,8 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 💎[Project List](http://amailist.com)
 
+💎[Askme AI ](https://askmeaiapp.com/)
+
 💎[Stake ](http://google.fr)
 
 ## Socials
@@ -49,9 +51,9 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 💎[Telegram](https://t.me/askmeportal)
 
-💎[Reddit ](http://google.fr)
+💎[Reddit ](https://www.reddit.com/user/Askmeaiapp/)
 
-💎[Medium ](http://google.fr)
+💎[Medium ](https://medium.com/@askmeaiproject)
 
 💎[Linktree ](https://linktr.ee/Askmeai)
 
