@@ -3,7 +3,7 @@ AskmeAI is a comprehensive project scanning platform powered by artificial intel
 AskmeAI is a project that aims to thoroughly scan and score new or pre-sale projects using the power of Artificial Intelligence.
 
 
-<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/banner11.png" alt="alt text" width="1440" height="240">
+<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/banner12.png" alt="alt text" width="1440" height="240">
 
 
 ## Table of Contents
