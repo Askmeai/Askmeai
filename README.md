@@ -54,6 +54,8 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 💎[Medium ](https://medium.com/@askmeaiproject)
 
+💎[Youtube ](https://www.youtube.com/channel/UCVD8t0Cgm9EmPtOIVD8-9TA)
+
 💎[Linktree ](https://linktr.ee/Askmeai)
 
 ## Licence
