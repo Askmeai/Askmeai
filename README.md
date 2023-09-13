@@ -35,6 +35,9 @@ AskmeAI is an artificial intelligence-supported scoring platform, a listing plat
 Having a project with KYC doesn't necessarily guarantee its safety. Likewise, investing in a non-KYC project isn't just a gamble; it's essentially handing money directly to scammers. You might as well stand by the street-facing part of your house and throw your money onto the street—this would at least bring a moment of happiness to whoever finds it. This scenario seems more logical than investing in a project without KYC.
 To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
+<img src="https://github.com/Askmeai/VisualWarehouse/blob/main/Utility.png" alt="alt text" width="1024" height="576">
+
+
 ## Links
 💎[Website](http://askmeaiproject.com)
 
