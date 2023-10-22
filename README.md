@@ -61,6 +61,8 @@ To read more https://whitepaper.askmeaiproject.com/askmeai/what-is-askmeai
 
 💎[Linktree ](https://linktr.ee/Askmeai)
 
+💎[LinkBio ](https://lnk.bio/askmeai)
+
 ## Licence
 
 Any repositories without an included license, and not entirely subject to other licenses are licensed under the Business Source License.
